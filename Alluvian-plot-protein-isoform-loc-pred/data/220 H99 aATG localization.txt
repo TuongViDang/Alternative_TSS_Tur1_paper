@@ -1,0 +1,221 @@
+TSS_cluster	geneID	d1	d2	Long	Short
+CNAG_00081 _ 2	CNAG_00081	in-frame	NA	Nucleus	Nucleus
+CNAG_00123 _ 2	CNAG_00123	in-frame	NA	Peroxisome	Mitochondrion
+CNAG_00319 _ 2	CNAG_00319	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_00634 _ 2	CNAG_00634	NA	in-frame (2)	Nucleus	Cytoplasm
+CNAG_00776 _ 3	CNAG_00776	in-frame	NA	Cell membrane	Cell membrane
+CNAG_01563 _ 2	CNAG_01563	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_01583 _ 2	CNAG_01583	in-frame	NA	Golgi apparatus	Cytoplasm
+CNAG_02036 _ 2	CNAG_02036	in-frame	NA	Golgi apparatus	Endoplasmic reticulum
+CNAG_02157 _ 2	CNAG_02157	in-frame	NA	Nucleus	Nucleus
+CNAG_02259 _ 2	CNAG_02259	in-frame	NA	Nucleus	Mitochondrion
+CNAG_02545 _ 2	CNAG_02545	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_02666 _ 2	CNAG_02666	in-frame	NA	Plastid	Cytoplasm
+CNAG_02838 _ 2	CNAG_02838	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_02851 _ 2	CNAG_02851	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_02955 _ 3	CNAG_02955	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_02961 _ 2	CNAG_02961	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_03114 _ 2	CNAG_03114	in-frame	NA	Endoplasmic reticulum	Nucleus
+CNAG_03239 _ 2	CNAG_03239	in-frame	NA	Nucleus	Nucleus
+CNAG_03303 _ 2	CNAG_03303	in-frame	NA	Nucleus	Cytoplasm
+CNAG_03321 _ 2	CNAG_03321	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03358 _ 2	CNAG_03358	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03618 _ 2	CNAG_03618	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_03621 _ 2	CNAG_03621	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_03667 _ 2	CNAG_03667	NA	in-frame(2)	Mitochondrion	Cytoplasm
+CNAG_03853 _ 2	CNAG_03853	in-frame	NA	Endoplasmic reticulum	Cytoplasm
+CNAG_04037 _ 2	CNAG_04037	in-frame	NA	Nucleus	Nucleus
+CNAG_04066 _ 2	CNAG_04066	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04326 _ 3	CNAG_04326	in-frame	NA	Peroxisome	Peroxisome
+CNAG_04354 _ 2	CNAG_04354	in-frame	NA	Golgi apparatus	Mitochondrion
+CNAG_04388 _ 2	CNAG_04388	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04601 _ 2	CNAG_04601	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04787 _ 2	CNAG_04787	in-frame	NA	Cell membrane	Cell membrane
+CNAG_04883 _ 2	CNAG_04883	in-frame	NA	Cytoplasm	Mitochondrion
+CNAG_04955 _ 2	CNAG_04955	NA	in-frame(2)	Plastid	Cytoplasm
+CNAG_05113 _ 2	CNAG_05113	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_05722 _ 2	CNAG_05722	in-frame	NA	Plastid	Cytoplasm
+CNAG_05909 _ 2	CNAG_05909	in-frame	NA	Mitochondrion	Plastid
+CNAG_06286 _ 3	CNAG_06286	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_06443 _ 2	CNAG_06443	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_06622 _ 2	CNAG_06622	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_07472 _ 2	CNAG_07472	in-frame	NA	Nucleus	Nucleus
+CNAG_07564 _ 2	CNAG_07564	in-frame	NA	Nucleus	Nucleus
+CNAG_07782 _ 2	CNAG_07782	in-frame	NA	Plastid	Cytoplasm
+CNAG_00019 _ 1	CNAG_00019	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_00061 _ 1	CNAG_00061	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_00119 _ 1	CNAG_00119	in-frame	NA	Nucleus	Nucleus
+CNAG_00126 _ 1	CNAG_00126	in-frame	NA	Peroxisome	Mitochondrion
+CNAG_00161 _ 2	CNAG_00161	in-frame	NA	Peroxisome	Cytoplasm
+CNAG_00165 _ 1	CNAG_00165	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_00166 _ 1	CNAG_00166	in-frame	NA	Nucleus	Nucleus
+CNAG_00255 _ 1	CNAG_00255	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_00270 _ 1	CNAG_00270	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_00283 _ 1	CNAG_00283	NA	in-frame (1)	Cytoplasm	Cytoplasm
+CNAG_00304 _ 1	CNAG_00304	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_00374 _ 1	CNAG_00374	in-frame	NA	Cytoplasm	Peroxisome
+CNAG_00517 _ 1	CNAG_00517	in-frame	NA	Plastid	Endoplasmic reticulum
+CNAG_00540 _ 1	CNAG_00540	in-frame	NA	Cell membrane	Cell membrane
+CNAG_00549 _ 1	CNAG_00549	in-frame	NA	Nucleus	Nucleus
+CNAG_00581 _ 2	CNAG_00581	in-frame	NA	Lysosome/Vacuole	Cytoplasm
+CNAG_00623 _ 1	CNAG_00623	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_00659 _ 1	CNAG_00659	in-frame	NA	Nucleus	Nucleus
+CNAG_00690 _ 1	CNAG_00690	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_00700 _ 1	CNAG_00700	in-frame	NA	Peroxisome	Cytoplasm
+CNAG_00756 _ 1	CNAG_00756	in-frame	NA	Golgi apparatus	Golgi apparatus
+CNAG_00897 _ 1	CNAG_00897	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_00905 _ 1	CNAG_00905	NA	in-frame (1)	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_01028 _ 1	CNAG_01028	in-frame	NA	Lysosome/Vacuole	Lysosome/Vacuole
+CNAG_01029 _ 1	CNAG_01029	in-frame	NA	Mitochondrion	Nucleus
+CNAG_01092 _ 1	CNAG_01092	in-frame	NA	Nucleus	Nucleus
+CNAG_01102 _ 1	CNAG_01102	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_01120 _ 1	CNAG_01120	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_01169 _ 1	CNAG_01169	in-frame	NA	Plastid	Cytoplasm
+CNAG_01187 _ 1	CNAG_01187	in-frame	NA	Nucleus	Nucleus
+CNAG_01339 _ 1	CNAG_01339	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_01381 _ 1	CNAG_01381	in-frame	NA	Nucleus	Nucleus
+CNAG_01428 _ 2	CNAG_01428	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_01436 _ 1	CNAG_01436	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_01451 _ 1	CNAG_01451	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_01467 _ 1	CNAG_01467	in-frame	NA	Golgi apparatus	Golgi apparatus
+CNAG_01491 _ 1	CNAG_01491	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_01546 _ 1	CNAG_01546	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_01657 _ 2	CNAG_01657	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_01671 _ 1	CNAG_01671	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_01677 _ 1	CNAG_01677	NA	in-frame (2)	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_01844 _ 1	CNAG_01844	in-frame	NA	Lysosome/Vacuole	Lysosome/Vacuole
+CNAG_01846 _ 1	CNAG_01846	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_01893 _ 1	CNAG_01893	in-frame	NA	Plastid	Cytoplasm
+CNAG_01950 _ 1	CNAG_01950	in-frame	NA	Nucleus	Nucleus
+CNAG_01981 _ 1	CNAG_01981	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_02000 _ 1	CNAG_02000	NA	in-frame(1)	Mitochondrion	Mitochondrion
+CNAG_02030 _ 6	CNAG_02030	in-frame	NA	Extracellular	Cell membrane
+CNAG_02043 _ 1	CNAG_02043	in-frame	NA	Extracellular	Cytoplasm
+CNAG_02065 _ 1	CNAG_02065	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_02080 _ 1	CNAG_02080	in-frame	NA	Nucleus	Nucleus
+CNAG_02081 _ 1	CNAG_02081	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_02105 _ 1	CNAG_02105	NA	in-frame(1)	Cytoplasm	Cytoplasm
+CNAG_02118 _ 1	CNAG_02118	in-frame	NA	Extracellular	Nucleus
+CNAG_02131 _ 1	CNAG_02131	in-frame	NA	Plastid	Plastid
+CNAG_02131 _ 2	CNAG_02131	in-frame	NA	Plastid	Plastid
+CNAG_02231 _ 1	CNAG_02231	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_02359 _ 1	CNAG_02359	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_02500 _ 1	CNAG_02500	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_02527 _ 2	CNAG_02527	in-frame	NA	Endoplasmic reticulum	Cell membrane
+CNAG_02543 _ 1	CNAG_02543	in-frame	NA	Nucleus	Nucleus
+CNAG_02689 _ 1	CNAG_02689	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_02690 _ 1	CNAG_02690	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_02693 _ 1	CNAG_02693	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_02704 _ 1	CNAG_02704	in-frame	NA	Plastid	Plastid
+CNAG_02715 _ 1	CNAG_02715	NA	in-frame(2)	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_02727 _ 1	CNAG_02727	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_02804 _ 1	CNAG_02804	in-frame	NA	Nucleus	Nucleus
+CNAG_02852 _ 3	CNAG_02852	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_02874 _ 1	CNAG_02874	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_02918 _ 1	CNAG_02918	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_02951 _ 1	CNAG_02951	in-frame	NA	Nucleus	Nucleus
+CNAG_03118 _ 1	CNAG_03118	in-frame	NA	Nucleus	Nucleus
+CNAG_03139 _ 1	CNAG_03139	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_03198 _ 1	CNAG_03198	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03245 _ 1	CNAG_03245	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03289 _ 1	CNAG_03289	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03364 _ 2	CNAG_03364	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_03364 _ 1	CNAG_03364	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_03423 _ 1	CNAG_03423	in-frame	NA	Nucleus	Nucleus
+CNAG_03486 _ 1	CNAG_03486	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_03510 _ 2	CNAG_03510	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03564 _ 1	CNAG_03564	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_03564 _ 2	CNAG_03564	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_03612 _ 1	CNAG_03612	in-frame	NA	Peroxisome	Mitochondrion
+CNAG_03623 _ 1	CNAG_03623	in-frame	NA	Mitochondrion	Peroxisome
+CNAG_03682 _ 1	CNAG_03682	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_03722 _ 1	CNAG_03722	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03885 _ 2	CNAG_03885	NA	in-frame(1)	Mitochondrion	Cytoplasm
+CNAG_03885 _ 1	CNAG_03885	NA	in-frame(1)	Mitochondrion	Cytoplasm
+CNAG_03909 _ 2	CNAG_03909	in-frame	NA	Cell membrane	Cell membrane
+CNAG_03958 _ 1	CNAG_03958	in-frame	NA	Nucleus	Nucleus
+CNAG_03961 _ 1	CNAG_03961	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_03991 _ 1	CNAG_03991	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_04021 _ 2	CNAG_04021	in-frame	NA	Cytoplasm	Nucleus
+CNAG_04082 _ 1	CNAG_04082	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04110 _ 1	CNAG_04110	in-frame	NA	Mitochondrion	Plastid
+CNAG_04164 _ 1	CNAG_04164	in-frame	NA	Nucleus	Cytoplasm
+CNAG_04165 _ 1	CNAG_04165	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_04219 _ 1	CNAG_04219	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04248 _ 1	CNAG_04248	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_04292 _ 1	CNAG_04292	in-frame	NA	Mitochondrion	Plastid
+CNAG_04314 _ 1	CNAG_04314	in-frame	NA	Cytoplasm	Nucleus
+CNAG_04376 _ 1	CNAG_04376	in-frame	NA	Nucleus	Nucleus
+CNAG_04378 _ 1	CNAG_04378	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_04392 _ 1	CNAG_04392	in-frame	NA	Plastid	Cytoplasm
+CNAG_04399 _ 1	CNAG_04399	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04604 _ 1	CNAG_04604	in-frame	NA	Plastid	Cytoplasm
+CNAG_04668 _ 1	CNAG_04668	in-frame	NA	Nucleus	Nucleus
+CNAG_04697 _ 1	CNAG_04697	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_04727 _ 1	CNAG_04727	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_04764 _ 1	CNAG_04764	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04777 _ 1	CNAG_04777	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_04823 _ 1	CNAG_04823	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_04882 _ 1	CNAG_04882	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_04905 _ 1	CNAG_04905	in-frame	NA	Mitochondrion	Nucleus
+CNAG_04950 _ 2	CNAG_04950	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_05109 _ 1	CNAG_05109	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_05173 _ 2	CNAG_05173	in-frame	NA	Nucleus	Nucleus
+CNAG_05173 _ 1	CNAG_05173	in-frame	NA	Nucleus	Nucleus
+CNAG_05226 _ 1	CNAG_05226	in-frame	NA	Plastid	Cytoplasm
+CNAG_05236 _ 1	CNAG_05236	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_05389 _ 1	CNAG_05389	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_05396 _ 1	CNAG_05396	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_05413 _ 1	CNAG_05413	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_05423 _ 1	CNAG_05423	in-frame	NA	Cytoplasm	Extracellular 
+CNAG_05440 _ 1	CNAG_05440	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_05468 _ 2	CNAG_05468	in-frame	NA	Nucleus	Nucleus
+CNAG_05468 _ 1	CNAG_05468	in-frame	NA	Nucleus	Nucleus
+CNAG_05510 _ 1	CNAG_05510	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_05548 _ 2	CNAG_05548	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_05548 _ 3	CNAG_05548	NA	in-frame (2)	Cytoplasm	Cytoplasm
+CNAG_05566 _ 1	CNAG_05566	NA	in-frame(1)	Endoplasmic reticulum	Nucleus
+CNAG_05612 _ 1	CNAG_05612	in-frame	NA	Nucleus	Nucleus
+CNAG_05665 _ 1	CNAG_05665	in-frame	NA	Endoplasmic reticulum	Endoplasmic reticulum
+CNAG_05725 _ 1	CNAG_05725	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_05737 _ 2	CNAG_05737	in-frame	NA	Cell membrane	Cell membrane
+CNAG_05749 _ 1	CNAG_05749	in-frame	NA	Nucleus	Nucleus
+CNAG_05752 _ 1	CNAG_05752	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_05769 _ 1	CNAG_05769	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_05827 _ 1	CNAG_05827	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_05890 _ 1	CNAG_05890	in-frame	NA	Cell membrane	Cell membrane
+CNAG_05900 _ 1	CNAG_05900	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_05917 _ 1	CNAG_05917	in-frame	NA	Nucleus	Mitochondrion
+CNAG_06022 _ 1	CNAG_06022	in-frame	NA	Plastid	Cytoplasm
+CNAG_06030 _ 1	CNAG_06030	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_06032 _ 1	CNAG_06032	in-frame	NA	Golgi apparatus	Cytoplasm
+CNAG_06064 _ 1	CNAG_06064	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_06173 _ 1	CNAG_06173	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_06297 _ 2	CNAG_06297	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_06353 _ 1	CNAG_06353	in-frame	NA	Mitochondrion	Nucleus
+CNAG_06355 _ 2	CNAG_06355	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_06490 _ 1	CNAG_06490	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_06602 _ 2	CNAG_06602	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_06690 _ 1	CNAG_06690	in-frame	NA	Plastid	Cytoplasm
+CNAG_06755 _ 1	CNAG_06755	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_06763 _ 1	CNAG_06763	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_06773 _ 1	CNAG_06773	in-frame	NA	Nucleus	Nucleus
+CNAG_06790 _ 1	CNAG_06790	NA	in-frame(2)	Nucleus	Cytoplasm
+CNAG_06946 _ 1	CNAG_06946	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_07308 _ 1	CNAG_07308	in-frame	NA	Plastid	Plastid
+CNAG_07342 _ 1	CNAG_07342	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_07352 _ 1	CNAG_07352	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_07354 _ 1	CNAG_07354	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_07430 _ 1	CNAG_07430	in-frame	NA	Nucleus	Nucleus
+CNAG_07437 _ 1	CNAG_07437	in-frame	NA	Plastid	Plastid
+CNAG_07482 _ 1	CNAG_07482	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_07509 _ 1	CNAG_07509	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_07647 _ 1	CNAG_07647	in-frame	NA	Lysosome/Vacuole	Lysosome/Vacuole
+CNAG_07664 _ 1	CNAG_07664	in-frame	NA	Plastid	Plastid
+CNAG_07718 _ 1	CNAG_07718	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_07765 _ 2	CNAG_07765	in-frame	NA	Cytoplasm	Plastid
+CNAG_07801 _ 1	CNAG_07801	in-frame	NA	Mitochondrion	Cytoplasm
+CNAG_07802 _ 1	CNAG_07802	NA	in-frame(1)	Mitochondrion	Cytoplasm
+CNAG_07981 _ 1	CNAG_07981	in-frame	NA	Mitochondrion	Mitochondrion
+CNAG_08004 _ 1	CNAG_08004	in-frame	NA	Cytoplasm	Cytoplasm
+CNAG_03920 _ 2	CNAG_03920	in-frame	NA	Mitochondrion	Mitochondrion

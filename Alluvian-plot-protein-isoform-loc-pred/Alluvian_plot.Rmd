@@ -1,0 +1,61 @@
+---
+title: "Alluvian plot of Protein Isoform Localization Prediction"
+author: "Vi Dang"
+date: "2022-09-15"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE}
+#Load packages
+library(tidyverse)
+library(ggalluvial)
+```
+
+```{r }
+#Load data of TSS clusters and protein isoform localization predicted by Deeploc 2.0
+loc_H99<-read.csv("D:/phD/TSS cluster/Localization signals/manually analysis with Deeploc/220 H99 aATG localization.txt",sep="\t")
+```
+ 
+```{r }
+#Filter for genes where the Long and Short isoforms have different localization                 
+loc_H99_diff<-loc_H99%>%filter(Long!=Short)
+#Number of gene
+nrow(loc_H99_diff)  
+```
+
+```{r }
+#Construct a contingency table
+loc_contingency_table<-table(loc_H99_diff$Long,loc_H99_diff$Short)%>%as.data.frame()
+colnames(loc_contingency_table)<-c("LONG","SHORT","Frequency")
+head(loc_contingency_table)
+```
+
+
+```{r plot, fig.height=9,fig.width=8,warning=F}
+#Plot the alluvian plot
+ggplot(data = loc_contingency_table,
+       aes(axis1 = LONG,   # First variable on the X-axis
+           axis2 = SHORT, 
+           y = Frequency)) +
+  geom_alluvium(
+    aes(fill = LONG),
+    #     width        =  0,
+    #     knot.pos     =  0,
+    reverse      =  FALSE)  + 
+  geom_stratum(width        =  1/3.5  ,
+               reverse      =  FALSE,
+               color        = '#222222') +
+  geom_text(stat = "stratum", aes(label = after_stat(stratum)),
+            reverse      =  FALSE) +
+  scale_x_continuous(breaks       =  1:2,
+                     labels       =  c("LONG isoform","SHORT isoform")
+  ) +                                                             # Uncomment to plot from bottom to top
+  theme_minimal()+
+  theme(axis.text.x.bottom = element_text(size=17),
+        axis.title.y.left = element_text(size=20),
+        legend.position = "None")
+```
